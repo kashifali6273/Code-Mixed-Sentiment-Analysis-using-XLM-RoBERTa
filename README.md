@@ -151,7 +151,7 @@ print(predict_sentiment("Main bazar gaya aur sab theek tha."))
 - Achieved 85% validation accuracy, demonstrating practical effectiveness.
 
 ---
-📄 For a detailed technical and research report, please see the [Project Report (PDF)](Project_Report_Kashif_Ali.pdf).
+📄 For a detailed technical and research report, please see the or download the pdf. [Project Report (PDF)](Project_Report_Kashif_Ali.pdf).
 
 ## 📁 Project Structure
 
