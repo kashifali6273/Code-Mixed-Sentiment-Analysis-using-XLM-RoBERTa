@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+pandas
+numpy
+scikit-learn
+jupyterlab
+streamlit
+beautifulsoup4
+tweepy
+huggingface_hub
