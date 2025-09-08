@@ -13,12 +13,20 @@ venv/
 # Data
 data/raw/*
 data/processed/*
+*.csv
+*.tsv
 
 # Models / outputs
 *.bin
 *.pt
 *.pth
 *.ckpt
+*.safetensors
+models/*
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
 
 # IDE
 .vscode/
+.idea/

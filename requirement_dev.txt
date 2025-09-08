@@ -1,0 +1,6 @@
+-r requirements.txt   # installs everything from requirements.txt first
+
+jupyterlab>=4.0.0
+notebook>=7.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
